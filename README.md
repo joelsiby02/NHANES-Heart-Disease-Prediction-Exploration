@@ -1,1 +1,3 @@
+the model is predicting the likelihood of a patient having a heart disease based on several features such as age group, gender, chest pain type (cp), resting blood pressure (trestbps), cholesterol (chol), fasting blood sugar (fbs), resting electrocardiographic results (restecg), maximum heart rate achieved (thalach), exercise induced angina (exang), ST depression induced by exercise relative to rest (oldpeak), slope of the peak exercise ST segment (slope), number of major vessels (0-3) colored by flourosopy (ca), and thalassemia (thal).
 
+The model uses a decision tree classifier to make predictions, which means it builds a tree-like model of decisions and their possible consequences, including the probability of a patient having a heart disease
